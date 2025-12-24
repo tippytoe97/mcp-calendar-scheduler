@@ -1,0 +1,10 @@
+#Google OAuth secrets
+token.json
+credentials.json
+
+#Python jink
+__pycache__/
+*.pyc
+
+#Environment files
+.env
